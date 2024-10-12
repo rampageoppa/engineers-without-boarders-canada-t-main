@@ -1,0 +1,84 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">W4TW Workshop</string>
+
+    <!-- reading task -->
+    <string name="task0_header">Introduction</string>
+    <string name="task0_content">The Water for the World Workshop introduces participants to the issues of clean water access and how local economy, geography and literacy are all connected. Using this app, you will try to build a water filter to access clean water for yourself!</string>
+
+    <string name="task9_header">Filter Building Challenge</string>
+    <string name="task9_content">Many people in the world drink dirty water and get sick or die.\nYour challenge is to build a water filter to turn the glass of water</string>
+    <string name="task9_footer">Press NEXT to start the challenge</string>
+
+    <string name="task10_header">Well Done!</string>
+    <string name="task10_subtitle">Now you have tried to build a filter you will realise how difficult it is for people in sub-Saharan Africa to access to clean water</string>
+    <string name="task10_content">By now you will be aware of some of the issues around access to clean water in sub-Saharan Africa. Press NEXT to answer questions about the exercise for your teacher or presenter or press skip to end the workshop.\nPress NEXT to start the challenge or press SKIP to end the workshop.
+</string>
+
+    <!-- sliding scale task -->
+    <string name="tooShort">The answer is too small</string>
+    <string name="tooLarge">The answer is too large</string>
+    <string name="task2_header">Clean Water Access</string>
+    <string name="task2_subtitle">There are approaching 8 billion people in the world. How many of them do you think do not have access to clean drinking water in their home?</string>
+    <string name="task2_correctInfo">Yes! around 800 million people - 1 in 10 of the world’s population - don’t have clean drinking water within a 30-minute trip from their home and 1 in 4 (2 billion!) don’t have it in their home</string>
+
+    <string name="task6_header">Q: What is Extreme Poverty ?</string>
+    <string name="task6_subtitle">A: Living on less than $2.50 a day\nHow many people do you think live on less than $2.50 a day?</string>
+    <string name="task6_correctInfo" tools:ignore="Typos">Yes! 1 Billion people in the world live in Extreme Poverty – think what you could buy with $2.50 – what could you eat and how would your or your parents be able to pay your rent</string>
+
+    <!-- mc task-->
+    <string name="task3_header">Where do most of the people without clean water access live?</string>
+    <string name="task3_option0">North America</string>
+    <string name="task3_option1">South America</string>
+    <string name="task3_option2">Europe</string>
+    <string name="task3_option3">Asia</string>
+    <string name="task3_option4">Africa</string>
+    <string name="task3_popup">Yes, most of the people in the world living without clean water live in Sub-Saharan Africa – the part of Africa south of the Sahara </string>
+
+    <string name="task7_header">Where do most of the people in extreme poverty live?
+</string>
+    <string name="task7_option0">North America</string>
+    <string name="task7_option1">South America</string>
+    <string name="task7_option2">Europe</string>
+    <string name="task7_option3">Asia</string>
+    <string name="task7_option4">Africa</string>
+    <string name="task7_popup">Yes, most of the people in the world living in extreme poverty live in Sub-Saharan Africa – the part of Africa south of the Sahara. Click NEXT to see how poverty varies around the world.
+</string>
+
+    <!-- short answer task -->
+
+    <string name="task11_header">Question 1</string>
+    <string name="task11_question">How did the money and literacy rate you were given for each affect your ability to build a water filter?</string>
+    <string name="task12_header">Question 2</string>
+    <string name="task12_question">Do you think water and its use around the world is fair and equal? Should people have the same access to water everywhere?</string>
+    <string name="task13_header">Question 3</string>
+    <string name="task13_question">What can you do in your daily life to conserve water?</string>
+    <string name="task14_header">Question 4</string>
+    <string name="task14_question">What is the most important thing you have learned doing this activity?</string>
+    
+    <string name="instruction_developed">1. Loosely put a piece of cheese cloth at the bottom of the filter, then put a piece of cotton plug above that.\n2. Place two layers of fine sand over the cotton plug, followed by 2 layers of coarse sand, followed by one layer each of fine gravel and coarse gravel.\n3. Now, test your water filter to find out how well your filter works and whether or not it’s drinkable.</string>
+    <string name="instruction_developing">1. Loosely put a piece of cheese XXXXX of the filter, then put X XXXXX of xxxx plug XXXXX that.\n2. Place XXX layers of fine XXXX over the cotton XXXX, followed by X layers of XXXXX sand, followed by one XXXX each of fine XXXXX and XXXX gravel.\n3. If XXX don’t have enough XXXXX then try different combinXXXXXX.\n4. Now, XXXX your water XXXXX to find out how well your XXXXXX works and XXXXX or not it’s XXXXX.</string>
+    <string name="instruction_Malawi">1. XXXXXX put a piece of XXXX XXXXX of the filter, then put X XXXXX of XXXX plug XXXXX that.\n2. Place XXX layers of fine XXXX over the XXX XXXX, followed by X layers of XXXXX sand, XXXXXXX by one XXXX each of fine XXXXX and XXXX gravel.\n3. If XXX don’t have enough XXXXX then try different XXXXXXXXXXX.\n4. Now, XXXX your water XXXXX to find out how well your XXXXXX works and XXXXX or not it’s XXXXX.
+</string>
+
+    <!-- GLR task -->
+    <string name="task5_header">Global Literacy Rate</string>
+    <string name="task5_content">The literacy rate is defined by the percentage of the population of a given age group that can read and write. As you can see on the map, the lack of education in Sub-Saharan Africa is a problem.</string>
+    <string name="task8_header">Global Extreme Poverty</string>
+    <string name="task8_content">Extreme Poverty is defined by the percentage of the population living on less than $2.50 a say. This map shows where most of those suffering from extreme poverty live. Not surprisingly with a lack of clean water and education, many people in Sub-Saharan Africa suffer from Extreme Poverty</string>
+
+    <!-- literacy rate task -->
+    <string name="task4_header">Literacy Rate</string>
+    <string name="task4_subtitle">Definition:\nThe percentage of the population of a given age group that can read and write.</string>
+
+    <string name="our_world_in_data">Our World in Data</string>
+    <string name="our_world_in_data_url">ourworldindata.org/</string>
+
+    <string name="filter_hint">Long press a material above to drag it into your filter. When you are ready, press the button to test your filter</string>
+    <string name="see_instructions">instructions</string>
+    <string name="undo">undo</string>
+    <string name="test">TEST</string>
+    <!-- hint for price multiplier -->
+    <string name="cfn_hint">You receive less funding than the rest of Canada and costs for materials are 5 times higher due to geographical and political issues</string>
+
+    <string name="difficulty_reading">"You will have difficulty reading this – this is due to the literacy rate in this country."</string>
+</resources>
